@@ -8,4 +8,4 @@ excel project 5 (autosaved) : Data cleaning and preparation is completed by ensu
                               After customer segmentation is completed, a pivot table is constructed and continuously formatted. The average function is used to analyze customer behavior, and the chart represents the customer's historical behavior in relation to their age and gender.
                               Based on the profession, credit product, and activity of the occupation, a marketing strategy is developed.
                               A strategy chart is constructed, and through customer feedback and surveys, we can determine what has to be improved in order to gain the customers' interest.
-excel-6 : I made a barchart using the pivot table tool and conditional formatting. 
+excel-6 : I made a bar chart and a line chart using the pivot table tool and conditional formatting. The validation column is found using the multiplication, if, and is number functions. 
